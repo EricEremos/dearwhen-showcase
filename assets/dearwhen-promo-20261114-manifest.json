@@ -1,0 +1,32 @@
+{
+ "edition": "2026-11-14 film, built from the product's newest real screens",
+ "film": {
+  "duration_seconds": 26.8,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "silent",
+  "readme_loop": "8.4-26.8 s of the film",
+  "mp4": "review encode of the master (H.264 CRF 24, faststart)"
+ },
+ "qualification": "Real screens of the public sample room at dwhen.pages.dev/preview (three sample people), captured 14 Nov 2026 by pressing the product's own controls. The seatmates and the agreed scene are drawn by the product's own character code.",
+ "note": "",
+ "master_sha256": "a50eea412640aa60c4265ae1603d4aebe70fced6a9066fa67b9a7f5700c1e39e",
+ "files": {
+  "mp4": {
+   "path": "assets/dearwhen-promo-20261114.mp4",
+   "bytes": 777920,
+   "sha256": "90e9ae60614f6b31cd00f3a194620728f8a0398a384b96dfa0268b859c83aa13"
+  },
+  "gif": {
+   "path": "assets/dearwhen-promo-20261114.gif",
+   "bytes": 537527,
+   "sha256": "84d1b08ea7aab05e114369f23c0403c804138de363873f05f3712c922e0b0a26"
+  },
+  "poster": {
+   "path": "assets/dearwhen-promo-20261114-poster.png",
+   "bytes": 79097,
+   "sha256": "5d00bd96ed592413ee7921912820b881bac4d1ed9151b0d1e5937cc254613d52"
+  }
+ }
+}
